@@ -2,6 +2,15 @@
 
 Finite Element Analysis of threaded bolted joints under static and dynamic loading using ABAQUS, with automated Python-based post-processing to investigate fatigue resistance and anti-loosening performance.
 
+## Institutional Information Request
+
+Technical information from this project was requested by the **Indian Space
+Research Organisation (ISRO)** in relation to the finite element modelling,
+stress analysis, fatigue behaviour, and anti-loosening performance of the
+threaded bolted joint.
+
+The project was independently developed using **ABAQUS** and **Python**.
+
 ##  Project Overview
 
 Threaded fasteners are widely used in critical engineering structures where fatigue failure and loosening under vibration are major concerns.
